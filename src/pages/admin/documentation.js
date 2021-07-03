@@ -1,5 +1,5 @@
-import Content from '../../components/content';
+import Docs from '../../components/docs';
 
 export default function DocumentationPage() {
-  return <Content title="Documentation" />;
+  return <Docs />;
 }
