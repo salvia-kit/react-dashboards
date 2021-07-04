@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import HomePage from './pages';
-import DashboardLayout from './dashboard';
 import StatusPage from './pages/admin/status';
 import CreditsPage from './pages/admin/credits';
+import DashboardLayout from './dashboard/layout';
 import ArchivesPage from './pages/admin/archives';
 import SettingsPage from './pages/admin/settings';
 import DocumentationPage from './pages/admin/documentation';
