@@ -236,10 +236,8 @@ export default function Docs() {
             <strong className="px-1">pages</strong>directory
           </li>
           <li className="mb-3">
-            Wrap your routes in <strong>App.js</strong> by the
-            <strong className="px-1">DashboardLayout</strong>component imported
-            from
-            <strong className="px-1">dashboard/layout.js</strong>
+            Wrap your routes in <strong>app.js</strong> by the
+            <strong className="px-1">DashboardLayout</strong>component
           </li>
         </ul>
       </section>
@@ -273,8 +271,7 @@ export default function Docs() {
             </li>
             <li className="mb-3">
               Replace your layout by the
-              <strong className="px-1">DashboardLayout</strong> imported from
-              <strong className="px-1">dashboard/layout.js</strong>
+              <strong className="px-1">DashboardLayout</strong>component
             </li>
           </ul>
         </div>
