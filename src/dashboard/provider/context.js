@@ -18,9 +18,7 @@ export default function DashboardProvider({ children }) {
   React.useEffect(() => {
     document.documentElement.style.overflow = 'hidden';
     return history.listen(() => {
-      if (open && window.innerWidth < 1024) {
-        setOpen(false);
-      }
+      setOpen(false);
     });
   }, [history, open]);
 
