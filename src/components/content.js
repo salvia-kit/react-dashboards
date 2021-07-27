@@ -87,12 +87,12 @@ const Content = ({ title }) => (
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-                    alt="participant"
+                    alt="participant1"
                   />
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-                    alt="participant"
+                    alt="participant2"
                   />
                   <button className="w-5 h-5 rounded-full border-none ml-3 p-0 flex justify-center items-center bg-white">
                     <svg
@@ -140,12 +140,12 @@ const Content = ({ title }) => (
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-                    alt="participant"
+                    alt="participant3"
                   />
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-                    alt="participant"
+                    alt="participant4"
                   />
                   <button className="w-5 h-5 rounded-full border-none ml-3 p-0 flex justify-center items-center bg-white">
                     <svg
@@ -193,12 +193,12 @@ const Content = ({ title }) => (
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-                    alt="participant"
+                    alt="participant5"
                   />
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-                    alt="participant"
+                    alt="participant6"
                   />
                   <button className="w-5 h-5 rounded-full border-none ml-3 p-0 flex justify-center items-center bg-white">
                     <svg
@@ -246,12 +246,12 @@ const Content = ({ title }) => (
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-                    alt="participant"
+                    alt="participant7"
                   />
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-                    alt="participant"
+                    alt="participant8"
                   />
                   <button className="w-5 h-5 rounded-full border-none ml-3 p-0 flex justify-center items-center bg-white">
                     <svg
@@ -299,12 +299,12 @@ const Content = ({ title }) => (
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-                    alt="participant"
+                    alt="participant9"
                   />
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-                    alt="participant"
+                    alt="participant10"
                   />
                   <button className="w-5 h-5 rounded-full border-none ml-3 p-0 flex justify-center items-center bg-white">
                     <svg
@@ -352,12 +352,12 @@ const Content = ({ title }) => (
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-                    alt="participant"
+                    alt="participant11"
                   />
                   <img
                     className="w-5 h-5 rounded-full overflow-hidden object-cover"
                     src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-                    alt="participant"
+                    alt="participant12"
                   />
                   <button className="w-5 h-5 rounded-full border-none ml-3 p-0 flex justify-center items-center bg-white">
                     <svg
@@ -427,7 +427,7 @@ const Content = ({ title }) => (
           <div className="border-t solid border-gray-700 p-4 flex 2xl:items-start w-full hover:bg-gray-700">
             <img
               src="https://images.unsplash.com/photo-1600486913747-55e5470d6f40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-              alt="profile image"
+              alt="profile image2"
               className="object-cover w-10 h-10 rounded-full"
             />
             <div className="pl-4 w-full">
@@ -493,7 +493,7 @@ const Content = ({ title }) => (
           <div className="border-t solid border-gray-700 p-4 flex 2xl:items-start w-full hover:bg-gray-700">
             <img
               src="https://images.unsplash.com/photo-1533993192821-2cce3a8267d1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fHdvbWFuJTIwbW9kZXJufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-              alt="profile image"
+              alt="profile image3"
               className="object-cover w-10 h-10 rounded-full"
             />
             <div className="pl-4 w-full">
