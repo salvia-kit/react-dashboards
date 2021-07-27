@@ -42,7 +42,8 @@
       "react-app/jest"
     ],
     "rules": {
-      "jsx-a11y/anchor-is-valid": 0
+      "jsx-a11y/anchor-is-valid": 0,
+      "jsx-a11y/img-redundant-alt": 0
     }
   },
   "browserslist": {
