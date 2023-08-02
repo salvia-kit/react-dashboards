@@ -1,5 +1,5 @@
 interface ContentProps {
-  title: string;
+  title?: string;
 }
 
 export function Content(props: ContentProps) {
